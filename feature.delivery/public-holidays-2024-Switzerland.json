@@ -1,0 +1,104 @@
+{
+  "product": "Switzerland Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebrate the start of the new year with friends and family."
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-12T12:00:00",
+      "endDate": "2024-04-12T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "purple",
+      "description": "Observance of the crucifixion of Jesus Christ."
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-15T12:00:00",
+      "endDate": "2024-04-15T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "green",
+      "description": "Celebration of the resurrection of Jesus Christ."
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "yellow",
+      "description": "Honoring the contributions of workers."
+    },
+    {
+      "title": "Ascension Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-30T12:00:00",
+      "endDate": "2024-05-30T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "indigo",
+      "description": "Commemorating the ascension of Jesus Christ into heaven."
+    },
+    {
+      "title": "Whit Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-10T12:00:00",
+      "endDate": "2024-06-10T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "pink",
+      "description": "Celebration of the Holy Spirit's descent upon the apostles."
+    },
+    {
+      "title": "Swiss National Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-08-01T12:00:00",
+      "endDate": "2024-08-01T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "red",
+      "description": "Celebrating the founding of the Swiss Confederation."
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "teal",
+      "description": "Celebrating the birth of Jesus Christ."
+    },
+    {
+      "title": "St. Stephen's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-26T12:00:00",
+      "endDate": "2024-12-26T12:00:00",
+      "source": "Government of Switzerland",
+      "product": "Switzerland Public Holidays 2024",
+      "style": "amber",
+      "description": "Honoring the first Christian martyr St. Stephen."
+    }
+  ]
+}
